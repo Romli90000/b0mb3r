@@ -1,4 +1,7 @@
 from service import Service
+import random
+import string
+
 
 
 class Maxidom(Service):
